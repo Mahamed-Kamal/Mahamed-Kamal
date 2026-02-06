@@ -34,7 +34,65 @@ I’m passionate about clean code, strong architecture patterns, and delivering 
 
 ## 🛠 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=dart,flutter,firebase,sqlite,git,github,androidstudio,vscode,postman)
+### 📱 Mobile Development
+![Mobile](https://skillicons.dev/icons?i=flutter,dart)
+
+---
+
+### 🏗 Architecture & State Management
+- Clean Architecture  
+- MVI Pattern  
+- MVVM Pattern  
+- Bloc / Cubit  
+
+---
+
+### 🔌 Backend & APIs
+![Backend](https://skillicons.dev/icons?i=firebase)
+
+- REST APIs  
+- JSON Serialization  
+- Retrofit / Dio Networking  
+
+---
+
+### 💾 Local Storage & Databases
+![Database](https://skillicons.dev/icons?i=sqlite)
+
+- Sqflite  
+- Hive  
+- Shared Preferences  
+
+---
+
+### 🧪 Testing
+- Unit Testing  
+- Widget Testing  
+- UI Testing  
+- Testable Architecture Design  
+
+---
+
+### 🎨 UI/UX & Design
+![Design](https://skillicons.dev/icons?i=figma)
+
+- Responsive UI Development  
+- Custom Animations  
+- Material & Adaptive Design  
+
+---
+
+### 💻 Programming Languages
+![Languages](https://skillicons.dev/icons?i=dart,cpp)
+
+---
+
+### 🧰 Tools & Environment
+![Tools](https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman)
+
+- Dependency Injection  
+- Debugging & Performance Profiling  
+- CI/CD Basics  
 
 ---
 
@@ -60,6 +118,17 @@ I strongly believe that great applications are built on strong testing foundatio
 ✔ Widget Testing  
 ✔ UI Testing  
 ✔ Writing testable and maintainable business logic  
+
+---
+
+## 🧠 Engineering Mindset
+
+- Writing clean, readable, and scalable production-level code  
+- Designing apps with long-term maintainability in mind  
+- Focusing on predictable UI behavior using unidirectional data flow  
+- Balancing performance, architecture, and user experience  
+- Following best practices and modern software engineering principles  
+- Always learning and improving development workflows  
 
 ---
 
